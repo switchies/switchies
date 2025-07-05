@@ -25,7 +25,7 @@ Main Contents
 > ✨ 그리고 [Switchies Studio](https://youtube.com/@switchiesstudio)에선  
 > 단편 애니메이션 쇼츠, 게임 제작 비하인드 영상 등이 업로드됩니다!  
 >  
-> ✨ Over at **Switchies Studio**, you'll also find animation shorts,  
+> ✨ Over at [Switchies Studio](https://youtube.com/@switchiesstudio), you'll also find animation shorts,  
 > behind-the-scenes clips from game development, and more!
 
 ---
@@ -46,24 +46,25 @@ this brand strives to be a tiny but meaningful part of your life.
 🧩 세계관 한눈에 보기
 At a Glance: Switchies World
 
-키보드 스위치들이 의인화되어 살아가는 세계
-→ A world where keyboard switches are personified as characters.
+- 키보드 스위치들이 의인화되어 살아가는 세계  
+  A world where keyboard switches are personified as characters.
 
-각 스위치는 고유한 성격과 특기를 지닌 캐릭터
-→ Each switch has its own personality and unique traits.
+- 각 스위치는 고유한 성격과 특기를 지닌 캐릭터  
+  Each switch has its own personality and unique traits.
 
-이들의 일상, 갈등, 우정, 성장을 다룬 미니게임 및 애니메이션 전개
-→ Mini-games and animations explore their daily lives, conflicts, friendships, and growth.
+- 이들의 일상, 갈등, 우정, 성장을 다룬 미니게임 및 애니메이션 전개  
+  Mini-games and animations explore their daily lives, conflicts, friendships, and growth.
 
-유저 참여로 세계관이 확장되는 구조
-→ The universe expands through user participation and interaction.
+- 유저 참여로 세계관이 확장되는 구조  
+  The universe expands through user participation and interaction.
+
 
 ---
 
 ## 🔗 관련 링크  
 Links
 
-- 🌐 oficial website: [Switchies World](https://switchiesworld.com)  
+- 🌐 official website: [Switchies World](https://switchiesworld.com)  
 - 📺 youtube: [@switchiesstudio](https://youtube.com/@switchiesstudio)  
 - 📸 instagram: [@switchiesstudio](https://instagram.com/switchiesstudio)
 
