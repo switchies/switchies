@@ -1,5 +1,5 @@
-# 💻 Switchies Dev에 오신 걸 환영해요!  
-Welcome to Switchies Dev!
+# 💻 Switchies Dev에 오신 걸 환영해요! | Welcome to Switchies Dev!
+
 
 **Switchies Dev**는 키보드 스위치에서 영감을 받은 캐릭터들이  
 게임과 애니메이션 속에서 살아가는 세계를 만들어가는 1인 개발 공간입니다.  
@@ -10,8 +10,8 @@ come to life through games and animations. Here's what is being built:
 
 ---
 
-## 🛠 주요 콘텐츠  
-Main Contents
+## 🛠 주요 콘텐츠 | Main Contents
+
 
 - 🌏 **스위치즈 월드 웹사이트** (Next.js, Tailwind CSS)  
   **Switchies World Website** (Built with Next.js & Tailwind CSS)
@@ -30,8 +30,8 @@ Main Contents
 
 ---
 
-## 🎯 브랜드 이념  
-Brand Vision
+## 🎯 브랜드 이념 | Brand Vision
+
 
 **스위치즈는 일상 속 소소한 재미, 감동, 힐링을 전하는 것이 목표입니다.**  
 짧은 웃음, 따뜻한 공감, 그리고 캐릭터에 대한 애정을 통해  
@@ -43,8 +43,8 @@ this brand strives to be a tiny but meaningful part of your life.
 
 ---
 
-🧩 세계관 한눈에 보기
-At a Glance: Switchies World
+## 🧩 세계관 한눈에 보기 | At a Glance: Switchies World
+
 
 - 키보드 스위치들이 의인화되어 살아가는 세계  
   A world where keyboard switches are personified as characters.
@@ -61,8 +61,8 @@ At a Glance: Switchies World
 
 ---
 
-## 🔗 관련 링크  
-Links
+## 🔗 관련 링크 | Links
+
 
 - 🌐 official website: [Switchies World](https://switchiesworld.com)  
 - 📺 youtube: [@switchiesstudio](https://youtube.com/@switchiesstudio)  
@@ -70,8 +70,8 @@ Links
 
 ---
 
-## ✉️ 연락하기  
-Contact
+## ✉️ 연락하기 | Contact
+
 
 - Email: `hello.switchies@gmail.com`  
 
