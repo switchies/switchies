@@ -22,7 +22,7 @@ Main Contents
 - 👬 **사용자 참여형 세계관 확장**  
   **Expanding the Universe with Community Participation**
 
-> ✨ 그리고 **[Switchies Studio](https://youtube.com/@switchiesstudio)**에선  
+> ✨ 그리고 [Switchies Studio](https://youtube.com/@switchiesstudio)에선  
 > 단편 애니메이션 쇼츠, 게임 제작 비하인드 영상 등이 업로드됩니다!  
 >  
 > ✨ Over at **Switchies Studio**, you'll also find animation shorts,  
